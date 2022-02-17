@@ -20,7 +20,7 @@
     "graphql": "^15.5.0",
     "js-cookie": "^2.2.1",
     "mobile-detect": "^1.4.5",
-    "next": "10.2.3",
+    "next": "12.1.0",
     "next-i18next": "^8.5.0",
     "next-with-apollo": "^5.1.1",
     "rc-scroll-anim": "^2.7.6",
